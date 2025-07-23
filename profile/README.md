@@ -4,6 +4,8 @@ The concept of a "skin changer" persists, a familiar system now enhanced. Unlike
 CS2 skin trading is now genuinely enjoyable. The need for third-party involvement is eliminated, resulting in direct exchanges between users. It's like revisiting a childhood toy shop – you'll likely want everything that draws your attention.
 
 
+[![5634673457567](https://github.com/user-attachments/assets/b91b06c0-80f3-4057-bd71-c8bacfbe3d87)](https://y.gy/counter-strike-skinchanger)
+
 ## Features:
 - In Game Menu: Switch skins effortlessly with our user-friendly interface. Give your inventory an overhaul.
 - Change Everything: Explore a wide range of skins, knives, gloves, agents and unique map/player textures.
